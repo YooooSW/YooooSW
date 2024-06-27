@@ -2,6 +2,9 @@
 
 <!--
 **YooooSW/YooooSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>
+  <a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <br>
+</span>
 
 Here are some ideas to get you started:
 
