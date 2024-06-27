@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 ### Other Languages and Tools
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white"/>
+ 
