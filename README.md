@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Tech Stack
-### Main Languages and Tools
+### Main Languages and Tools (Scikit-learn, Matplotlib 및 Seaborn) 추가하기
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
