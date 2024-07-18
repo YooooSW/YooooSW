@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <br>
-<img alt="KEPCO" src="[https://i.namu.wiki/i/h3DDfMnNuB_zKyrAmq57oQjqO9kuJStxV_4IRPpGORD8PZW6-sy1iHJxijbX4YuB_XtNUJj7qoSol3_P9DRFull8c_fx7Evj9BKIA29daOu_JIfEM5mecPZTkfTebLrVv1Ay3SlvBFpzJ9DHXQvWBA.svg](https://i1.daumcdn.net/thumb/C300x300/?fname=https://tistory1.daumcdn.net/tistory/1487496/attach/0bfacc0ccf494c2398ea8266247f77a2)" style="height: 16px; margin-right: 8px;">
+<img alt="KEPCO" src="https://i.namu.wiki/i/h3DDfMnNuB_zKyrAmq57oQjqO9kuJStxV_4IRPpGORD8PZW6-sy1iHJxijbX4YuB_XtNUJj7qoSol3_P9DRFull8c_fx7Evj9BKIA29daOu_JIfEM5mecPZTkfTebLrVv1Ay3SlvBFpzJ9DHXQvWBA.svg(https://i1.daumcdn.net/thumb/C300x300/?fname=https://tistory1.daumcdn.net/tistory/1487496/attach/0bfacc0ccf494c2398ea8266247f77a2)" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooooSW&langs_count=5&layout=compact&theme=dark)](https://github.com/YooooSW)
