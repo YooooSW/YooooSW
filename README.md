@@ -3,10 +3,6 @@
 <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
 <br>
-<div style="display: flex; align-items: center; background-color: #0064ff; padding: 10px;">
-    <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 40px; margin-right: 10px;">
-    <span style="font-size: 24px; font-weight: bold; color: #ffffff;">전력빅데이터기반융합SW개발자1기</span>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooooSW&langs_count=5&layout=compact&theme=dark)](https://github.com/YooooSW)
 
