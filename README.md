@@ -3,10 +3,12 @@
 <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
 <br>
-<div style="display: flex; align-items: center; background-color: #0064ff; padding: 10px;">
-    <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 24px; margin-right: 10px;">
-    <span style="font-size: 18px; font-weight: bold; color: #ffffff;">전력빅데이터기반융합SW개발자1기</span>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40" role="img" aria-label="전력빅데이터기반융합SW개발자1기">
+    <title>전력빅데이터기반융합SW개발자1기</title>
+    <rect width="600" height="40" fill="#0064ff"/>
+    <image x="10" y="8" width="24" height="24" href="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg"/>
+    <text x="50" y="25" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="18" font-weight="bold">전력빅데이터기반융합SW개발자1기</text>
+</svg>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooooSW&langs_count=5&layout=compact&theme=dark)](https://github.com/YooooSW)
@@ -28,12 +30,9 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 ### Main Languages and Tools (Scikit-learn, Matplotlib 및 Seaborn) 추가하기
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 ### Other Languages and Tools
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
