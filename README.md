@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <br>
+<a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src="https://img.shields.io/badge/Tistory-black.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a> <br>
 <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
 <br>
