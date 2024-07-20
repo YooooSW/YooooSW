@@ -3,13 +3,6 @@
 <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
 <br>
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="28" role="img" aria-label="KEPCO 전력빅데이터기반융합SW개발자1기">
-    <title>KEPCO 전력빅데이터기반융합SW개발자1기</title>
-    <rect width="600" height="28" fill="#0064ff"/>
-    <image x="10" y="7" width="14" height="14" href="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg"/>
-    <text x="50%" y="50%" dy=".3em" fill="#fff" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="bold">KEPCO 전력빅데이터기반융합SW개발자1기</text>
-</svg>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooooSW&langs_count=5&layout=compact&theme=dark)](https://github.com/YooooSW)
 
