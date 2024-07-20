@@ -2,11 +2,10 @@
 <a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <br>
 <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80" role="img" aria-label="전력빅데이터기반융합SW개발자1기">
-    <rect width="700" height="80" fill="#0064ff"/>
-    <image x="10" y="20" width="40" height="40" href="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg"/>
-    <text x="300" y="55" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="24" font-weight="bold">전력빅데이터기반융합SW개발자1기</text>
-</svg>
+<br>
+<img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 40px; vertical-align: middle; margin-right: 10px;">
+<span style="font-size: 24px; font-weight: bold; color: #ffffff; background-color: #0064ff; padding: 10px;">전력빅데이터기반융합SW개발자1기</span>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooooSW&langs_count=5&layout=compact&theme=dark)](https://github.com/YooooSW)
