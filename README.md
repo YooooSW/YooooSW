@@ -2,6 +2,7 @@
 <a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src="https://img.shields.io/badge/Tistory-black.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a> <br>
 <img alt="KEPCO" src="https://i.namu.wiki/i/-VNakpqHyZpjtjANg6svsImmL142fCX4UOgeHjFL-TRRzGbUPsbpWMg7cwRcuIFB93soQWaOCld93V0v1Xc751yurWZOpNH3lcI1aQY_7sy3M6g6GOrBVwDU7SwYnxBQMMhbQ54SpcOkT3dK45g0Eg.svg" style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기
+인공지능사관학교5기
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooooSW&langs_count=5&layout=compact&theme=dark)](https://github.com/YooooSW)
