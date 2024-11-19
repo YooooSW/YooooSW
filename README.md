@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://i.namu.wiki/i/pVR5Rghdqk6pU41stMDSjjE0C_4-uGXM76nqZ53xoi6_oAfqtMMIw4r8JqZr4xYtXPgZs7rRtK6iAjsKrZNvpu2L1VTAo3PStMCX2tIyS6fotP11Jyk1M3FZAm6mS7UL3UAb2A026GYt3Xe-ZTWtOw.svg" alt="KEPCO" style="height: 50px; margin-right: 8px;">
-전력빅데이터기반융합SW개발자1기<br>
+<img src="https://i.namu.wiki/i/pVR5Rghdqk6pU41stMDSjjE0C_4-uGXM76nqZ53xoi6_oAfqtMMIw4r8JqZr4xYtXPgZs7rRtK6iAjsKrZNvpu2L1VTAo3PStMCX2tIyS6fotP11Jyk1M3FZAm6mS7UL3UAb2A026GYt3Xe-ZTWtOw.svg" alt="KEPCO" style="height: 50px; margin-right: 8px;">전력빅데이터기반융합SW개발자1기<br>
 인공지능사관학교5기<br>
 
 
