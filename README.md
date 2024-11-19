@@ -1,6 +1,5 @@
 ## Hi there 👋
-<a href="https://y000.tistory.com" target="_blank"><img alt="Tistory" src="https://img.shields.io/badge/Tistory-black.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a> <br>
-<img alt="KEPCO" src="![image](https://github.com/user-attachments/assets/95bf13f5-e029-4a4c-8a1d-17a3729b9956)
+<img alt="KEPCO" src="[![image](https://github.com/user-attachments/assets/95bf13f5-e029-4a4c-8a1d-17a3729b9956)](https://i.namu.wiki/i/pVR5Rghdqk6pU41stMDSjjE0C_4-uGXM76nqZ53xoi6_oAfqtMMIw4r8JqZr4xYtXPgZs7rRtK6iAjsKrZNvpu2L1VTAo3PStMCX2tIyS6fotP11Jyk1M3FZAm6mS7UL3UAb2A026GYt3Xe-ZTWtOw.svg)
 " style="height: 16px; margin-right: 8px;">
 전력빅데이터기반융합SW개발자1기<br>
 인공지능사관학교5기<br>
